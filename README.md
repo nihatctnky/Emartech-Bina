@@ -6,6 +6,9 @@ Emartech Building Web sitesi projesidir.Mobil ve Tablet cihazlarda uyumludur.
 
 HTML , CSS , BOOTSTRAP
 
+# Ekran Gif
+
+
 
 
 
